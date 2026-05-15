@@ -1,4 +1,4 @@
-# DONA APP - MVP funcional 60%
+# DONA APP - MVP funcional falta terminar
 
 Plataforma web para gestionar donaciones a orfanatos en Cochabamba.
 
